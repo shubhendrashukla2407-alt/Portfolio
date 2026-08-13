@@ -1,6 +1,4 @@
-# Shubhendra Shukla's Portfolio
-
-## 🚀 [Click Here to View My Portfolio](https://shubhendrashukla2407-alt.github.io/Portfolio/my_portfolio.html)
+# Shubhendra Shukla
 
 ### About Me
 I'm an 8th class student from Lucknow building projects with C, C++, HTML, and CSS.
